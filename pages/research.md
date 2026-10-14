@@ -293,13 +293,6 @@ letter-spacing: .06em; }
       </a>
     </li>
     <li>
-      <a class="link-card" href="https://www.bigidea.pitt.edu/programs/signature-programs/kuzneski-innovation-cup/" target="_blank" rel="noopener">
-        <span class="title">Kuzneski Innovation Cup 🏆 - Team Lead in Pitch Competition</span>
-        <span class="meta">Description</span>
-        <span class="icon" aria-hidden="true">↗</span>
-      </a>
-    </li>
-    <li>
       <!-- replace href with your public post URL when ready -->
       <a class="link-card" href="https://www.smarttech.pitt.edu/news/2025hackathon" target="_blank" rel="noopener" aria-label="LinkedIn post: Wireless Innovation Hackathon for Accessibility—First Place">
         <span class="title">Wireless Innovation Hackathon for Accessibility — 🥇 1st Place </span>
